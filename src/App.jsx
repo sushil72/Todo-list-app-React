@@ -64,7 +64,7 @@ export default function App() {
 
   return (
     <div className="bg-gradient-to-r from-purple-500 to-pink-500 min-h-screen">
-      <div className="container mx-auto w-1/2 px-4 py-8">
+      <div className="container mx-auto lg:w-1/2 sm:w-full px-4 py-8">
         <div className="bg-white rounded-lg shadow-lg p-6 md:p-8">
           <h1 className="text-3xl font-bold text-center text-gray-800 mb-6">
             Todo List
